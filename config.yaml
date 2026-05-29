@@ -1,4 +1,4 @@
-baseURL: https://e-valuarsas.com/
+baseURL: https://evaluargit.github.io/
 relativeURLs: true
 canonifyURLs: true
 theme: hugo-apero
@@ -61,15 +61,9 @@ params:
   orgName: RStudio
   sharing_image: /img/papillons.jpg
   social:
-    - icon: github
-      icon_pack: fab
-      url: https://github.com/apreshill/apero
     - icon: bluesky
       icon_pack: fab
       url: https://bsky.app/
-    - icon: instagram
-      icon_pack: fab
-      url: https://www.instagram.com/explore/tags/apero/
     - icon: x-twitter
       icon_pack: fab
       url: https://twitter.com/hashtag/apéro
