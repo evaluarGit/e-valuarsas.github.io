@@ -25,7 +25,7 @@ intro: |
   
   ## Hugo Navarro
   
-  <img src="hugo.jpg"  alt="Hugo Navarro" class="img-hugo">
+  <img src="hugo.jpg"  alt="Hugo Navarro" class="img-hugo" style="width: 300px; height: auto;">
   
   Economista, con maestría en Administración Pública de la Universidad de Michigan. Para entidades del gobierno nacional, fundaciones empresariales y organizaciones bilaterales y multilaterales, ha evaluado programas focalizados en primera infancia, niveles educativos y poblaciones vulnerables. 
   
@@ -35,7 +35,7 @@ intro: |
   
   ## Esteban Gómez-Santiago
   
-  <img src="esteban.jpg"  alt="Esteban Gómez-Santiago" class="img-esteban"> 
+  <img src="esteban.jpg"  alt="Esteban Gómez-Santiago" class="img-esteban" style="width: 300px; height: auto;"> 
   
   Economista, con maestría en Gobierno y Asuntos Públicos de Flacso México, se ha especializado en métodos cuantitativos para el análisis y evaluación de polítitcas públicas y en el desarrollo de productos con software R. Como consultor ha participado en proyectos de energía, educación y salud pública. 
   
